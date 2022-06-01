@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "437332757414",
+    "project_id": "first-project-8e135",
+    "storage_bucket": "first-project-8e135.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437332757414:android:74a7c10516fae8115c9d67",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "437332757414-umhds961gngi301t5dbem7tfn47q1k2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "87f81172b3223c64866fa7b48e9365b87b174624"
+          }
+        },
+        {
+          "client_id": "437332757414-rs23u1c24mutllcqe60tgmp724p76642.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVrDZyHxaNb4WZkzk1h29HoedP-M68miA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "437332757414-rs23u1c24mutllcqe60tgmp724p76642.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
